@@ -9,6 +9,7 @@ Tools & Technologies
 - Google Colab
 - Pandas
 - NumPy
+- Matplotlib
 - CSV Datasets
 
 Projects
