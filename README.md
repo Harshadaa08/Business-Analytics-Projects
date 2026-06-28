@@ -1,4 +1,4 @@
-Business Analytics Projects
+# 📊 Business Analytics Projects
 
 Welcome to my Business Analytics Projects repository.
 
